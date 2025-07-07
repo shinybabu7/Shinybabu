@@ -1,0 +1,9 @@
+Review,Sentiment,Confidence,Detected Issues
+The car was delivered 2 hours late and smelled bad.,NEGATIVE,0.9997537732124329,Late Delivery
+Amazing service! The car was clean and staff were friendly.,POSITIVE,0.999833345413208,None
+I was overcharged despite booking in advance.,NEGATIVE,0.9995545744895935,Billing Issues
+The AC wasn't working and the engine was noisy.,NEGATIVE,0.9994950294494629,None
+Quick pickup and return. Very smooth experience.,POSITIVE,0.99649578332901,None
+Support staff were rude when I asked for help.,NEGATIVE,0.999213695526123,Customer Service
+Car was dirty and had scratches on the door.,NEGATIVE,0.998325526714325,Car Condition
+Very happy with the rental process. No issues at all.,POSITIVE,0.9997367262840271,None
